@@ -1,0 +1,4 @@
+5. myFirstDjango/.gitignore __pycache__/
+6. .vscode/
+7. venv/
+8. db.sqlite3
