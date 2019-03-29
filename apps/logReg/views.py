@@ -154,7 +154,7 @@ def updatePost(request,post_id):
 			for err in errors:
 				error(request, err)
 			print(errors)
-			return render(request, 'logreg/edit.html', context)
+			return render(request, 'logReg/edit.html', context)
 	return redirect('/wall')
 
 
