@@ -8,6 +8,7 @@ Django==1.10
 django-extensions==2.1.6
 Flask==1.0.2
 Flask-Bcrypt==0.7.1
+gunicorn==19.9.0
 ipython==7.4.0
 ipython-genutils==0.2.0
 itsdangerous==1.1.0
