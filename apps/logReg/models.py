@@ -17,3 +17,5 @@ class Post(models.Model):
 	# likers = models.ManyToManyField(User, related_name="liked_posts")
 	created_at = models.DateField(auto_now_add=True)
 	updated_at = models.DateField(auto_now=True)
+
+
